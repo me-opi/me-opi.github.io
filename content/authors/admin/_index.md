@@ -58,7 +58,7 @@ education:
     institution: Khulna University of Engineering & Technology (KUET)
     icon: ""
     date_start: 2023-07-01
-    date_end: Present
+    date_end: 2026-31-01
     summary: |
       Focusing on Efficient NLP and High-Performance Computing.
       Thesis: *Accelerating Bangla NLP Tasks with Automatic Mixed Precision*.
