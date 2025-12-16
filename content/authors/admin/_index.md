@@ -77,7 +77,7 @@ work:
     company_url: 'https://www.kuet.ac.bd/'
     icon: ''
     date_start: 2023-06-01
-    date_end: Present
+    date_end: ''
     summary: |2-
       Conducting courses on Object Oriented Programming, Data Structures, Algorithms, and Compiler Design.
       Leading research on Resource-Efficient NLP training and Sparse Tensor storage.
